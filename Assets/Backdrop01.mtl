@@ -1,0 +1,186 @@
+newmtl __defaultMat
+illum 4
+Kd 1.00 1.00 1.00
+Ka 0.40 0.40 0.40
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl _dark
+illum 4
+Kd 0.27 0.30 0.34
+Ka 0.40 0.40 0.40
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl _defaultMat
+illum 4
+Kd 1.00 1.00 1.00
+Ka 0.40 0.40 0.40
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl _metal
+illum 4
+Kd 0.84 0.87 0.91
+Ka 0.40 0.40 0.40
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl _metal2
+illum 4
+Kd 0.84 0.87 0.91
+Ka 0.40 0.40 0.40
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl _metal4
+illum 4
+Kd 0.84 0.87 0.91
+Ka 0.40 0.40 0.40
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl _metal6
+illum 4
+Kd 0.84 0.87 0.91
+Ka 0.40 0.40 0.40
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl _metal8
+illum 4
+Kd 0.84 0.87 0.91
+Ka 0.40 0.40 0.40
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl _metal10
+illum 4
+Kd 0.84 0.87 0.91
+Ka 0.40 0.40 0.40
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl _metal12
+illum 4
+Kd 0.84 0.87 0.91
+Ka 0.40 0.40 0.40
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl _metal14
+illum 4
+Kd 0.84 0.87 0.91
+Ka 0.40 0.40 0.40
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl _metal16
+illum 4
+Kd 0.84 0.87 0.91
+Ka 0.40 0.40 0.40
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl _metal18
+illum 4
+Kd 0.84 0.87 0.91
+Ka 0.40 0.40 0.40
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl _metalDark2
+illum 4
+Kd 0.68 0.71 0.77
+Ka 0.40 0.40 0.40
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl _metalDark4
+illum 4
+Kd 0.68 0.71 0.77
+Ka 0.40 0.40 0.40
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl _metalDark6
+illum 4
+Kd 0.68 0.71 0.77
+Ka 0.40 0.40 0.40
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl _metalDark8
+illum 4
+Kd 0.68 0.71 0.77
+Ka 0.40 0.40 0.40
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl _metalDark10
+illum 4
+Kd 0.68 0.71 0.77
+Ka 0.40 0.40 0.40
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl _metalDark12
+illum 4
+Kd 0.68 0.71 0.77
+Ka 0.40 0.40 0.40
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl _metalDark14
+illum 4
+Kd 0.68 0.71 0.77
+Ka 0.40 0.40 0.40
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl _metalDark16
+illum 4
+Kd 0.68 0.71 0.77
+Ka 0.40 0.40 0.40
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl _metalDark18
+illum 4
+Kd 0.68 0.71 0.77
+Ka 0.40 0.40 0.40
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl _metalRed2
+illum 4
+Kd 1.00 0.63 0.20
+Ka 0.40 0.40 0.40
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl _metalRed4
+illum 4
+Kd 1.00 0.63 0.20
+Ka 0.40 0.40 0.40
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl _metalRed6
+illum 4
+Kd 1.00 0.63 0.20
+Ka 0.40 0.40 0.40
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl _metalRed8
+illum 4
+Kd 1.00 0.63 0.20
+Ka 0.40 0.40 0.40
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl _metalRed10
+illum 4
+Kd 1.00 0.63 0.20
+Ka 0.40 0.40 0.40
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl _metalRed12
+illum 4
+Kd 1.00 0.63 0.20
+Ka 0.40 0.40 0.40
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl _metalRed14
+illum 4
+Kd 1.00 0.63 0.20
+Ka 0.40 0.40 0.40
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl dark
+illum 4
+Kd 0.27 0.30 0.34
+Ka 0.40 0.40 0.40
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl initialShadingGroup
+illum 4
+Kd 0.50 0.50 0.50
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
