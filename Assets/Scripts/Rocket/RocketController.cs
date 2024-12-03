@@ -3,7 +3,8 @@ using UnityEngine;
 public class RocketController : MonoBehaviour
 {
     [Header("Rocket Settings")]
-    public float thrustForce = 10f;
+    public float thrustForce = 1.5f;
+    public float rotateForce = 0.5f;
     public float fuelCapacity = 100f;
     public float fuelConsumptionRate = 1f;
     public float landingSpeedThreshold = 5f;
@@ -31,16 +32,19 @@ public class RocketController : MonoBehaviour
             return;
         }
         HandleThrust();
-
     }
 
     private void HandleThrust()
     {
-        if (Input.GetKey(KeyCode.Space) && currentFuel > 0)
+        if (Input.GetKey(KeyCode.W) && currentFuel > 0)
         {
-            rb.AddForce(Vector3.up * thrustForce, ForceMode.Force);
+            rb.AddForce(transform.up * thrustForce, ForceMode.Force);
             currentFuel -= fuelConsumptionRate * Time.deltaTime;
             currentFuel = Mathf.Max(currentFuel, 0f);
+        }
+        if (Input.GetKey(KeyCode.A) || Input.GetKey(KeyCode.D))
+        {
+            rb.AddTorque(transform.right * (Input.GetKey(KeyCode.A) ? -1 : 1) * rotateForce);
         }
     }
 
@@ -71,4 +75,4 @@ public class RocketController : MonoBehaviour
     }
 
 }
-    
+
